@@ -6,6 +6,8 @@ Filter to easily ignore async code in an async hook
 npm install async-hooks-ignore
 ```
 
+[![build status](https://travis-ci.org/mafintosh/async-hooks-ignore.svg?branch=master)](https://travis-ci.org/mafintosh/async-hooks-ignore)
+
 ## Usage
 
 ``` js
