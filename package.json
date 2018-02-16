@@ -1,6 +1,6 @@
 {
   "name": "async-hooks-ignore",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Filter to easily ignore async code in an async hook",
   "main": "index.js",
   "dependencies": {},
